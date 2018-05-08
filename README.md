@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+If you want CDN, here it is: https://cdn.jsdelivr.net/gh/akashpinnaka/cakewalkcss@1.1/cakewalk.css
+
+Documentation will be added soon..
 
 ## Development
 
